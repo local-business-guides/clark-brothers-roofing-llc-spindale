@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/clark-brothers-roofing-llc-spindale/sitemap.xml
+Sitemap: https://local-business-guides.github.io/clark-brothers-roofing-llc-spindale/news-sitemap.xml
